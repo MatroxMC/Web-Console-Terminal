@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <title>PHP SHELL</title>
     <link rel="stylesheet" href="style.css">
-    <script src="//code.jquery.com/jquery-1.12.0.min.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
 </head>
 <body>
 <?php
