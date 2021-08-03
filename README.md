@@ -1,4 +1,4 @@
 # Web-Console-Terminal
 PHP Console terminal
 
-##Version 0.1
+* Version 0.1
